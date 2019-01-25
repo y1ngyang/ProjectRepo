@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Minimal Mistakes
+title:            Data Engineering & Data Science
 locale:           en_US
-url:              //mmistakes.github.io/minimal-mistakes
+url:              //y1ngyang.github.io/ProjectRepo/
 
 
 # Jekyll configuration
@@ -41,9 +41,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: Giselle Espada
   avatar: bio-photo.jpg
-  bio: "Just another boring, time traveling, tattooed, designer from Buffalo New York."
+  bio: "Just another boring, time traveling, tattooed, Data Scientist from Colorado."
   disqus-shortname: minimalmistakes
   twitter: mmistakes
   facebook: michaelrose
